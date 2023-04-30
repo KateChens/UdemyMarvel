@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/UdemyMarvel/static/css/main.c50c0cf1.chunk.css",
+    "main.js": "/UdemyMarvel/static/js/main.fc888c68.chunk.js",
+    "main.js.map": "/UdemyMarvel/static/js/main.fc888c68.chunk.js.map",
+    "runtime-main.js": "/UdemyMarvel/static/js/runtime-main.30c4a539.js",
+    "runtime-main.js.map": "/UdemyMarvel/static/js/runtime-main.30c4a539.js.map",
+    "static/js/2.a26fdf47.chunk.js": "/UdemyMarvel/static/js/2.a26fdf47.chunk.js",
+    "static/js/2.a26fdf47.chunk.js.map": "/UdemyMarvel/static/js/2.a26fdf47.chunk.js.map",
+    "index.html": "/UdemyMarvel/index.html",
+    "static/css/main.c50c0cf1.chunk.css.map": "/UdemyMarvel/static/css/main.c50c0cf1.chunk.css.map",
+    "static/js/2.a26fdf47.chunk.js.LICENSE.txt": "/UdemyMarvel/static/js/2.a26fdf47.chunk.js.LICENSE.txt",
+    "static/media/error.42292aa1.gif": "/UdemyMarvel/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/UdemyMarvel/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/UdemyMarvel/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30c4a539.js",
+    "static/js/2.a26fdf47.chunk.js",
+    "static/css/main.c50c0cf1.chunk.css",
+    "static/js/main.fc888c68.chunk.js"
+  ]
+}
